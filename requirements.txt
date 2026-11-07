@@ -1,0 +1,11 @@
+numpy>=1.26
+pandas>=2.1
+pyarrow>=14
+tables>=3.9          # reads the PEMS-BAY .h5 file
+lightgbm>=4.3
+scikit-learn>=1.4
+joblib>=1.3
+# --- next steps (not needed for the baseline) ---
+# torch>=2.2   # for the PyTorch step
+streamlit>=1.50
+plotly>=5.20
